@@ -1,0 +1,22 @@
+{
+  "name": "cours-devops",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.com/julhenry/cours-devops.svg?branch=main)](https://travis-ci.com/julhenry/cours-devops)",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julhenry/cours-devops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julhenry/cours-devops/issues"
+  },
+  "homepage": "https://github.com/julhenry/cours-devops#readme"
+}
